@@ -27,4 +27,4 @@ Here you will find Canboot and Klipper configurations for various CANBus 3D Prin
 
 Please feel free to contribute configurations using the provided existing configurations as a template.
 
-Want to chat? Find us on [Discord](https://discord.gg/AypNA4Q8)
+Want to chat? Find us on [Discord](https://discord.gg/AypNA4Q8)!

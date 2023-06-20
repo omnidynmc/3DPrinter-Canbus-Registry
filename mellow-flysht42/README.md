@@ -3,6 +3,7 @@ Mellow FLY SHT42 - CANBus Klipper and Canboot Firmware Configuration
 
 | Function | PIN |
 | --- | --- |
+| CANBus | PB8/PB9 |
 | LED | PC13 |
 
 # Canboot

@@ -1,5 +1,5 @@
 # 3DPrinter-Canbus-Registry
-3D Printer Canbus Klipper Configuration Registery
+Registry for various CANBus capable 3D printing boards.
 
 # Devices
 

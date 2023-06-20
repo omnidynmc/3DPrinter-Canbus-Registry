@@ -3,14 +3,25 @@
 
 # Devices
 
+1. [BIGTREETECH](#BIGTREETECH)
+1. [Mellow](#Mellow)
+
+## BIGTREETECH
+
 | Device |
 | --- |
-| [BIGTREETECH EBB36](btt-ebb36/) |
-| [BIGTREETECH EBB42](btt-ebb42/) |
-| [BIGTREETECH Octopus v1.1 Pro](octopus-v1.1-pro/) |
-| [Mellow FLYSHT42](mellow-flysht42/) |
-| [Mellow SB2040](mellow-sb2040/) | 
-| [Mellow EasyBRD v1.1](mellow-easybrd-v1.1/) | 
+| [EBB36](btt-ebb36/) |
+| [EBB42](btt-ebb42/) |
+| [Octopus v1.1 Pro](octopus-v1.1-pro/) |
+
+
+## Mellow
+
+| Device |
+| --- |
+| [FLYSHT42](mellow-flysht42/) |
+| [SB2040](mellow-sb2040/) | 
+| [EasyBRD v1.1](mellow-easybrd-v1.1/) | 
 
 # Contributing
 

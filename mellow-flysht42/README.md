@@ -12,6 +12,9 @@ Mellow FLY SHT42 - CANBus Klipper and Canboot Firmware Configuration
 
 ## Flash Command
 
+````
+make flash FLASH_DEVICE=<id>
+````
 
 # Klipper
 

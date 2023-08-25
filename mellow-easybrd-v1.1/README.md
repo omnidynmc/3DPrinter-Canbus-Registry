@@ -4,7 +4,7 @@ Mellow EasyBRD CAN - CANBus Klipper and Canboot Firmware Configuration
 | Function | PIN |
 | --- | --- |
 | CANBus | RX 4/ TX 5 |
-| LED | fpio17 |
+| LED | gpio17 |
 
 # Canboot
 

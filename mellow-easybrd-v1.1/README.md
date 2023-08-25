@@ -20,7 +20,7 @@ make flash FLASH_DEVICE=<id>
 
 ## Flash Command
 
-![Mellow EasyBRD CAN v1.1 Klipper](images/klipper-mellow_easybrd_v1.1)
+![Mellow EasyBRD CAN v1.1 Klipper](images/klipper-mellow_easybrd_v1.1.png)
 
 # Pinout
 
